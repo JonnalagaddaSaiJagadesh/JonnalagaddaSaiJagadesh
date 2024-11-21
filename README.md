@@ -4,6 +4,7 @@
 - 💻 Passionate about building innovative solutions in AI/ML, software development, and game design.  
 - 🌟 Skilled in Java, Python, React, Node.js, and more.  
 - 📫 How to reach me saijagadesh16@gmail.com
+- my portfolio https://my-portfolio-psi-indol-36.vercel.app/
 
 <!---
 JonnalagaddaSaiJagadesh/JonnalagaddaSaiJagadesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
